@@ -1,0 +1,30 @@
+platform :ios, "9.0"
+#use_frameworks!
+target 'ASDFGH' do
+
+pod 'AFNetworking'
+pod "SVProgressHUD-0.8.1"
+pod 'SDWebImage'
+pod "MJRefresh"
+pod 'Masonry'
+
+pod 'MJExtension'
+pod 'IQKeyboardManager'
+pod 'SDCycleScrollView', '~> 1.80'
+pod 'TYPagerController'
+pod 'MJExtension'
+
+
+pod 'MBProgressHUD', '~> 1.1.0'
+
+
+pod 'UMCCommon'
+#pod 'UMCSecurityPlugins'
+pod 'UMCCommonLog'
+pod 'UMCShare/Social/ReducedWeChat'
+pod 'UMCShare/Social/ReducedQQ'
+pod 'UMCPush'
+pod 'AlipaySDK-iOS'
+pod 'WechatOpenSDK'
+
+end
